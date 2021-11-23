@@ -1,0 +1,24 @@
+body{
+    background-color: coral;
+}
+.text--color {
+    color:red;
+}
+.text {
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+    text-decoration:underline;
+}
+p{
+    
+    text-decoration:underline;
+}
+.spein {
+   
+    text-decoration:underline;
+}
+img {
+    width: 40%;
+}
